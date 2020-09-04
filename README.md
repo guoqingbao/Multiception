@@ -14,13 +14,13 @@ School of Computer Science, The University of Sydney
 
 ## Performance comparison with depthwise seperable convolution (DSConv)
 
-## Cifar 10
+### Cifar 10
 ![](/others/multiception-vs-dsconv1.png)
 
-## Cifar 100
+### Cifar 100
 ![](/others/multiception-vs-dsconv2.png)
 
-## STL 10
+### STL 10
 ![](/others/multiception-vs-dsconv3.png)
 
 ## Performance comparison with standard convolution
