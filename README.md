@@ -12,12 +12,12 @@ School of Computer Science, The University of Sydney
 
 # Experiments
 
-Performance comparison with depthwise seperable convolution (DSConv)
+## Performance comparison with depthwise seperable convolution (DSConv)
 
 ![](/others/multiception-vs-dsconv1.png)
 ![](/others/multiception-vs-dsconv2.png)
 ![](/others/multiception-vs-dsconv3.png)
 
-Performance comparison with standard convolution
+## Performance comparison with standard convolution
 ![](/others/multiception-vs-standard.png)
 
