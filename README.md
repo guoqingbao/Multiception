@@ -36,6 +36,29 @@ School of Computer Science, The University of Sydney
 
 # Experiments
 
+### Run Experiments
+
+#### For example:
+
+#### Run experiment on stl-10 and imagenet32x32 datasets using resnet50 model
+
+```python
+python3 main.py --label 10 --dataset stl --model resnet50 --batch_size 64
+
+python3 main.py --label 1000 --dataset imagenet32 --model resnet50 --epochs 50 
+```
+
+#### Run experiment on cifar-10 and cifar-100 datasets using shakenet model
+
+```python
+python3 main.py --label 10 --dataset cifar --model shake
+
+python3 main.py --label 100 --dataset cifar --model shake 
+```
+
+#### replace parameters dataset and/or model to explore other experiments
+
+
 ## Performance comparison with depthwise seperable convolution (DSConv)
 
 #### Cifar 10
