@@ -3,9 +3,10 @@ Author: Guoqing Bao
 School of Computer Science, The University of Sydney
 04/09/2020
 
-Reference:
-Guoqing Bao, Manuel B. Graeber, Xiuying Wang, "Depthwise Multiception Convolution for Reducing Network Parameters without Sacrificing Accuracy", 
-16th International Conference on Control, Automation, Robotics and Vision (ICARCV 2020), In Press.
+Citation:
+
+Guoqing Bao, Manuel B. Graeber, Xiuying Wang, "Depthwise Multiception Convolution for Reducing Network Parameters without Sacrificing Accuracy," 
+2020 16th International Conference on Control, Automation, Robotics and Vision (ICARCV), 2020, pp. 747-752, doi: 10.1109/ICARCV50220.2020.9305369.
 
 '''
 
